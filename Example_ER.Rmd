@@ -1,6 +1,6 @@
 ---
 title: | 
-       | Lapalican Renormalization 
+       | Laplacian Renormalization 
        | Group (LRG) ER Analysis
 pagetitle: "html_booklet"
 author: "Begona Bolos & Colin Mclean"
