@@ -1,6 +1,6 @@
 ---
 title: | 
-       | Lapalican Renormalization 
+       | Laplacian Renormalization 
        | Group (LRG) Political Blogs PPI Analysis
 pagetitle: "html_booklet"
 author: "Begona Bolos & Colin Mclean"
@@ -119,7 +119,7 @@ source(here("core_functions.R"))
 <br>
 <br>
 
-# Political Blogs Network
+# Political Blogs Network (Directed Network)
 
 
 >
