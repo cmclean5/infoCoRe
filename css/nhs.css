@@ -1,0 +1,38 @@
+/* 
+This .css file was taken from PHS R-Resources:
+https://github.com/Public-Health-Scotland/R-Resources/blob/master/R%20Guidance%20for%20PHI%20Formatting/custom.css
+*/
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 14px;
+    border-left: 5px solid #eee;
+}
+
+h1 {
+color: rgb(0,71,133);
+}
+
+h2 {
+color: rgb(0,125,179);
+}
+
+h3 {
+color: rgb(79,129,189);
+}
+
+h4 {
+color: rgb(64,177,204);
+}
+
+div.example { 
+background-color : rgb(222,235,247); border-radius: 10px; padding: 10px; border-style: solid;
+border-color: rgb(31,72,124);
+}
+
+
+/* links */
+a { color: #5ebccf; }
+
+a:hover { color: #50a0b0; /* darker color when hovering */ }

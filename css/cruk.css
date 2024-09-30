@@ -1,0 +1,82 @@
+/* 
+This .css file was taken from PHS R-Resources:
+https://github.com/Public-Health-Scotland/R-Resources/blob/master/R%20Guidance%20for%20PHI%20Formatting/custom.css
+*/
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 14px;
+    border-left: 5px solid #eee;
+}
+
+h1 {
+color: rgb(0,182,237); /*rgb(0,71,133);*/
+}
+
+h2 {
+color: rgb(0,182,237) /*#0091BD; /*rgb(0,125,179);*/
+}
+
+h3 {
+color: rgb(0,182,237) /*rgb(236,0,140); /*rgb(79,129,189);*/
+}
+
+h4 {
+color: rgb(0,182,237); /*#BC0070; /*rgb(64,177,204);*/
+}
+
+h1.title {
+color: rgb(46,0,139); /*rgb(0,71,133);*/
+}
+
+h4.author {
+  color: rgb(236,0,140);
+}
+
+h4.date {
+   color: rgb(236,0,140);
+}
+
+div.example { 
+background-color : rgb(222,235,247); border-radius: 10px; padding: 10px; border-style: solid;
+border-color: rgb(31,72,124);
+}
+
+
+/* links */
+a:link { color: rgb(0,182,237); }
+
+a:hover { color: #BC0070; /* darker color when hovering */ }
+
+a:visited { color: #0091BD; }
+
+
+/* Table Of Contents (TOC) Options */
+.tocify {
+  /*position: -webkit-sticky;
+  position: sticky; 
+  top: 120px; /*Controls where TOC stops when sticky */
+  width: 100% !important;
+  border: none;
+}
+
+/* TOC default link colour */
+.list-group-item {
+    color: rgb(102,102,102); /*#7b8a8b;*/
+    font-size: 16px;
+}
+
+/* TOC active link colour*/
+.list-group-item.active {
+    color:  rgb(0,182,237); /*#2c3e50;*/
+    background-color: white;
+    border: none;
+}
+
+/* TOC hover link colour */
+.list-group-item:hover, 
+.list-group-item.active:hover {
+    color: #BC0070;
+    background-color: white;
+}
